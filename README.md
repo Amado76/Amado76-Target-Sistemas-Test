@@ -1,2 +1,2 @@
 # Target-Sistemas-Test
-Teste estágio
+Contém o código de teste para o processo seletivo do estágio
